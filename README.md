@@ -1,4 +1,4 @@
-# Implementing Hate Speech Detection
+# SVM based Hate Speech Detection
 
 *Platform* : Python Jupyter, Google Colab or VS Code.  
 VS Code (version 1.59.0) was used to run the code. 

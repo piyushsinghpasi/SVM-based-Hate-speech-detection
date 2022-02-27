@@ -1,9 +1,10 @@
 # SVM based Hate Speech Detection
 An implementation that uses support vector machine to classify text into either toxic or non-toxic class. Many variants, approximations of SVMs are implemented and analyzed to compare the effect of SVMs on the Binary classification Task of Hate Speech Detection.
+
+## Resources and Libraries
 *Platform* : Python Jupyter, Google Colab or VS Code.  
 VS Code (version 1.59.0) was used to run the code. 
-
-## Common libraries used in for the project
+<br><br>
 numpy (version 1.19.5)  
 pickle (version 4.0)  
 regex (version 2019.12.20)  
@@ -18,8 +19,8 @@ tensorflow (version 2.7.0)
 datasets library is used   
 ##### If any other dependency issue then please install from within notebook only using '!pip install package_name'
 
-## Running notebooks in project
-#### Before running the notebooks go to the google drive link below and download the Project folder for all models and data
+## Running notebooks
+#### Before running the notebooks go to the google drive link below and download the folder for all models and data
 https://drive.google.com/drive/folders/1vZEvqBAgGv-8quZ7Enrv8HNELiD4E7wl?usp=sharing
 #### Once downloaded please adjust the ingestion path in the notebooks to point to correct location accordingly.
 For each Notebook in Code folder:  

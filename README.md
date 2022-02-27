@@ -1,5 +1,5 @@
 # SVM based Hate Speech Detection
-
+An implementation that uses support vector machine to classify text into either toxic or non-toxic class. Many variants, approximations of SVMs are implemented and analyzed to compare the effect of SVMs on the Binary classification Task of Hate Speech Detection.
 *Platform* : Python Jupyter, Google Colab or VS Code.  
 VS Code (version 1.59.0) was used to run the code. 
 

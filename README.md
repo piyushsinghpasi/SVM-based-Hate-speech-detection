@@ -19,9 +19,12 @@ tensorflow (version 2.7.0)
 datasets library is used   
 ##### If any other dependency issue then please install from within notebook only using '!pip install package_name'
 
+## Dataset
+Jigsaw Toxic Comment Challenge Dataset is used: [link](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+
 ## Running notebooks
 #### Before running the notebooks go to the google drive link below and download the folder for all models and data
-https://drive.google.com/drive/folders/1vZEvqBAgGv-8quZ7Enrv8HNELiD4E7wl?usp=sharing
+[GDrive link](https://drive.google.com/drive/folders/1vZEvqBAgGv-8quZ7Enrv8HNELiD4E7wl?usp=sharing)
 #### Once downloaded please adjust the ingestion path in the notebooks to point to correct location accordingly.
 For each Notebook in Code folder:  
 Run all the cells for training and testing of SVM model.
